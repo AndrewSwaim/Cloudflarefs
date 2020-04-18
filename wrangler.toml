@@ -1,0 +1,6 @@
+name = "internshipfs"
+type = "javascript"
+account_id = "63be813bcd432c0d07eb05e2b909fd30"
+workers_dev = true
+route = ""
+zone_id = ""
